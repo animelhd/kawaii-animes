@@ -1,11 +1,13 @@
 {
-     "versionCode":4,
-     "versionName":"1.0.3",
+     "versionCode":5,
+     "versionName":"1.0.4",
      "changelog":"
      <p>Pagina Oficial: <a>https://kawaiianimes.app/</a></p>
      <p>Corre de Soporte: konyajikino@gmail.com</p>
      <p>Mejoras en Rendimientos de la App</p>
-     <p>Edicion de Perfil</p>
-     <p>Desliza hacia abajo para actualizar recientes</p>
+     <p>Reparado error del perfil que se queda en negro</p>
+     <p>Reparado que no actualizan capitulos recientes</p>
+     <p>Añadido recuperar contraseña en el inicio de sesion</p>
+     <p>Reparado servidor gamma</p>
      "
 }
