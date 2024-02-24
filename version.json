@@ -1,13 +1,11 @@
 {
-     "versionCode":5,
-     "versionName":"1.0.4",
+     "versionCode":6,
+     "versionName":"1.0.5",
      "changelog":"
-     <p>Pagina Oficial: <a>https://kawaiianimes.app/</a></p>
-     <p>Corre de Soporte: konyajikino@gmail.com</p>
      <p>Mejoras en Rendimientos de la App</p>
-     <p>Reparado error del perfil que se queda en negro</p>
-     <p>Reparado que no actualizan capitulos recientes</p>
-     <p>Añadido recuperar contraseña en el inicio de sesion</p>
+     <p>Mejorado el perfil, ahora puedes colocar una imagen de tu Galeria</p>
+     <p>Agregado secuelas, precuelas y demas animes relacionados en la Pagina del anime</p>
+     <p>Agregado los generos a la pagina del anime</p>
      <p>Reparado servidor gamma</p>
      "
 }
