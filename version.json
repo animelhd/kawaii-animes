@@ -1,11 +1,9 @@
 {
-     "versionCode":6,
-     "versionName":"1.0.5",
+     "versionCode":7,
+     "versionName":"1.0.6",
      "changelog":"
-     <p>Mejoras en Rendimientos de la App</p>
-     <p>Mejorado el perfil, ahora puedes colocar una imagen de tu Galeria</p>
-     <p>Agregado secuelas, precuelas y demas animes relacionados en la Pagina del anime</p>
-     <p>Agregado los generos a la pagina del anime</p>
+     <p>Actualizacion de Urgencia</p>
+     <p>Lamento los incovenientes, pero no es culpa mia sino del server, repare tan pronto como pude</p>
      <p>Reparado servidor gamma</p>
      "
 }
