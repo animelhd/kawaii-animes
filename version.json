@@ -1,9 +1,13 @@
 {
-     "versionCode":8,
-     "versionName":"1.0.7",
+     "versionCode":9,
+     "versionName":"1.1.0",
      "changelog":"
-     <p>Actualizacion de Urgencia, Server Reparado de Nuevo</p>
-     <p>Lamento los incovenientes, pero no es culpa mia sino del server, repare tan pronto como pude</p>
-     <p>Reparado servidor gamma</p>
+     <p>Se añadieron nuevos animes a la app</p>
+     <p>Se agrego calendario de emisión, en la seccion de directorio</p>
+     <p>Se resubieron todos los capitulos caidos del server gamma</p>
+     <p>Se solucionaron varios bugs</p>
+     <p>Se añadio un seguimiento del ultimo capitulo visto en la lista de capitulos de cada anime</p>
+     <p>Se añadio soporte para animes en español de españa, los cuales de iran agregando de apoco</p>
+     <p>Se agrego boton flotante de redes sociales</p>
      "
 }
