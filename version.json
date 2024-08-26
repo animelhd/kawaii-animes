@@ -1,13 +1,9 @@
 {
-     "versionCode":9,
-     "versionName":"1.1.0",
+     "versionCode":10,
+     "versionName":"1.1.1",
      "changelog":"
-     <p>Se añadieron nuevos animes a la app</p>
-     <p>Se agrego calendario de emisión, en la seccion de directorio</p>
-     <p>Se resubieron todos los capitulos caidos del server gamma</p>
-     <p>Se solucionaron varios bugs</p>
-     <p>Se añadio un seguimiento del ultimo capitulo visto en la lista de capitulos de cada anime</p>
-     <p>Se añadio soporte para animes en español de españa, los cuales de iran agregando de apoco</p>
-     <p>Se agrego boton flotante de redes sociales</p>
+     <p>Se soluciono el bug del cierre de sesion de las cuentas</p>
+     <p>Se soluciono el bug que aveces no marcaba de manera adecuada los capitulos como vistos</p>
+     <p>Se añadieron nuevos animes en subtitulados y latinos</p>
      "
 }
