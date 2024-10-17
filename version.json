@@ -1,9 +1,9 @@
 {
-     "versionCode":10,
-     "versionName":"1.1.1",
+     "versionCode":11,
+     "versionName":"1.1.2",
      "changelog":"
-     <p>Se soluciono el bug del cierre de sesion de las cuentas</p>
-     <p>Se soluciono el bug que aveces no marcaba de manera adecuada los capitulos como vistos</p>
-     <p>Se añadieron nuevos animes en subtitulados y latinos</p>
+     <p>Se soluciono el error global del server delta</p>
+     <p>Se mejoro el sistema de errores del reproductor, ahora determina si un capitulo caido o es otro error</p>
+     <p>Se optimizaron varias librerias</p>
      "
 }
