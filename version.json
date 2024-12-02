@@ -1,11 +1,10 @@
 {
-     "versionCode":12,
-     "versionName":"1.1.3",
+     "versionCode":13,
+     "versionName":"1.1.4",
      "changelog":"
-     <p>Se soluciono el error del server delta</p>
-     <p>Se reparo el bug de anuncios infinitos los domingos</p>
-     <p>Se añadio un nuevo server de prueba</p>
-     <p>Se mejoro el sistema de errores del reproductor</p>
-     <p>Se añadieron nuevos animes</p>
+     <p>Primeramente pedir disculpas por lanzar dos version seguidas</p>
+     <p>Se reparó el bug critiico en los anuncios(solo mostraba uno por sesion)</p>
+     <p>Se añadió iconos y splash de tematica navideña</p>
+     <p>Se añadió banner para que la app se muestre en el inicio de los TVs</p>
      "
 }
