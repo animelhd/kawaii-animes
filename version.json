@@ -1,10 +1,10 @@
 {
-     "versionCode":13,
-     "versionName":"1.1.4",
+     "versionCode":14,
+     "versionName":"1.2.0",
      "changelog":"
-     <p>Primeramente pedir disculpas por lanzar dos version seguidas</p>
-     <p>Se reparó el bug critiico en los anuncios(solo mostraba uno por sesion)</p>
-     <p>Se añadió iconos y splash de tematica navideña</p>
-     <p>Se añadió banner para que la app se muestre en el inicio de los TVs</p>
+     <p>Se Agregaron nuevos animes y peliculas en subtitulos</p>
+     <p>Se agrego la funcion de eliminar capitulo manualmente de seguir viendo</p>
+     <p>Se agrego los idiomas disponibles en la ficha del anime</p>
+     <p>Algunos Bugs reparados</p>
      "
 }
