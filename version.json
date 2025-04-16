@@ -1,10 +1,8 @@
 {
-     "versionCode":14,
-     "versionName":"1.2.0",
+     "versionCode":15,
+     "versionName":"1.2.1",
      "changelog":"
-     <p>Se Agregaron nuevos animes y peliculas en subtitulos</p>
-     <p>Se agrego la funcion de eliminar capitulo manualmente de seguir viendo</p>
-     <p>Se agrego los idiomas disponibles en la ficha del anime</p>
+     <p>Se Reparo el server Gamma y Alpha</p>
      <p>Algunos Bugs reparados</p>
      "
 }
