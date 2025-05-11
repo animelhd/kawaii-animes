@@ -1,8 +1,12 @@
 {
-     "versionCode":15,
-     "versionName":"1.2.1",
+     "versionCode":16,
+     "versionName":"1.2.2",
      "changelog":"
-     <p>Se Reparo el server Gamma y Alpha</p>
-     <p>Algunos Bugs reparados</p>
+<p>Se Reparo Gamma</p>
+<p>Se Agregaron Muchos Animes Nuevos (pedidos)</p>
+<p>Se Cambiaron capitulos por otros mejores</p>
+<p>Se Añadio Filtros al Buscador</p>
+<p>Ahora los animes largos tienen paginador</p>
+<p>Algunos Bugs Menores reparados</p>
      "
 }
