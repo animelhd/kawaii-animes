@@ -1,12 +1,9 @@
 {
-     "versionCode":16,
-     "versionName":"1.2.2",
+     "versionCode":17,
+     "versionName":"1.2.3",
      "changelog":"
-<p>Se Reparo Gamma</p>
-<p>Se Agregaron Muchos Animes Nuevos (pedidos)</p>
-<p>Se Cambiaron capitulos por otros mejores</p>
-<p>Se Añadio Filtros al Buscador</p>
-<p>Ahora los animes largos tienen paginador</p>
+<p>Se Reparo el Bug que provocaba que se cerrara la App repentinamente a un grupo de usuarios</p>
+<p>Se añadieron nuevos animes en castellano y se mejoraron otros en latino</p>     
 <p>Algunos Bugs Menores reparados</p>
      "
 }
