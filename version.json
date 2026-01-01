@@ -2,8 +2,14 @@
      "versionCode":17,
      "versionName":"1.2.3",
      "changelog":"
-<p>Se Reparo el Bug que provocaba que se cerrara la App repentinamente a un grupo de usuarios</p>
-<p>Se añadieron nuevos animes en castellano y se mejoraron otros en latino</p>     
-<p>Algunos Bugs Menores reparados</p>
+<p>Cambio Automático de capítulos</p>
+<p>Cambiar servidor y Lenguaje dentro del reproductor</p>
+<p>Version Exclusiva para TV en la misma APK</p>
+<p>Mejoras para Donantes</p>
+<p>Fix Menores a TV y Reparado los anuncios</p>
+<p>Ahora se guardan Seguir viendo en la cuenta del usuario en Local</p>
+<p>Ahora puedes Cambiar tu Correo y Tu contraseña desde el perfil</p>
+<p>Si no puedes cerrar un anuncio, gira el movil</p>
      "
 }
+
