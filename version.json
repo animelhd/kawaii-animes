@@ -1,6 +1,6 @@
 {
-     "versionCode":17,
-     "versionName":"1.2.3",
+     "versionCode":20,
+     "versionName":"1.3.2",
      "changelog":"
 <p>Cambio Automático de capítulos</p>
 <p>Cambiar servidor y Lenguaje dentro del reproductor</p>
@@ -12,4 +12,5 @@
 <p>Si no puedes cerrar un anuncio, gira el movil</p>
      "
 }
+
 
