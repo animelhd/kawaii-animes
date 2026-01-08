@@ -1,16 +1,16 @@
 {
-     "versionCode":20,
-     "versionName":"1.3.2",
+     "versionCode":21,
+     "versionName":"1.3.3",
      "changelog":"
-<p>Cambio Automático de capítulos</p>
-<p>Cambiar servidor y Lenguaje dentro del reproductor</p>
-<p>Version Exclusiva para TV en la misma APK</p>
-<p>Mejoras para Donantes</p>
-<p>Fix Menores a TV y Reparado los anuncios</p>
-<p>Ahora se guardan Seguir viendo en la cuenta del usuario en Local</p>
-<p>Ahora puedes Cambiar tu Correo y Tu contraseña desde el perfil</p>
-<p>Si no puedes cerrar un anuncio, gira el movil</p>
+<p>Corregido Anuncios Infinitos</p>
+<p>Login rapido en TV y Movil </p>
+<p>Arreglado el bug que no guardaba la posición al cerrar la app cuando se estaba viendo un capitulo.</p>
+<p>Arreglado el bug de multicuentas de perfil</p>
+<p>Configuraciones para cuenta atrás al cambiar capitulo, entre otras configuraciones</p>
+<p>Arreglado algunos bugs en TV</p>
+<p>Ahora el TV también funciona con Mouse</p>
      "
 }
+
 
 
