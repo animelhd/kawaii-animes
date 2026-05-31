@@ -1,13 +1,12 @@
 {
-     "versionCode":23,
-     "versionName":"2.0.1",
+     "versionCode":25,
+     "versionName":"2.0.3",
      "changelog":"
-<p>Sincronización Inversa: Recupera tus listas desde el móvil (lamentablemente no todas se recuperan).</p>
-<p>Sincronización Multidispositivo: Tus datos y Seguir Viendo al instante (desliza abajo en Inicio para actualizar).</p>
-<p>Sistema de Puntos: Preparado para la futura versión de PC.</p>
-<p>Bugs del Player: Corregidos fallos de reproducción para mayor estabilidad.</p>
+<p>Bugs del Player: Corregido el fallo de sin conexion en algunos dispostivos, verificado y testado.</p>
+<p>Servidor Gamma: Ha dejado de funcionar lamentablemente, en un futuro tratare de agregar otro server u otros servers si es posible.</p>
 <p>Servidor Delta: Arreglado este servidor de streaming de vídeo (¡ya vuelve a funcionar!).</p>
-<p>Bugs Menores: Correcciones generales de rendimiento y estabilidad.</p>"
+<p>Bug de descargas offline VIP: Se reparo el bug que no reproducia los videos descargados sin internet.</p>
+<p>Otros bugs menores reparados.</p>"
 }
 
 
