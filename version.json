@@ -1,13 +1,12 @@
 {
-     "versionCode":25,
-     "versionName":"2.0.3",
-     "changelog":"
-<p>Bugs del Player: Corregido el fallo de sin conexion en algunos dispostivos, verificado y testado.</p>
-<p>Servidor Gamma: Ha dejado de funcionar lamentablemente, en un futuro tratare de agregar otro server u otros servers si es posible.</p>
-<p>Servidor Delta: Arreglado este servidor de streaming de vídeo (¡ya vuelve a funcionar!).</p>
-<p>Bug de descargas offline VIP: Se reparo el bug que no reproducia los videos descargados sin internet.</p>
-<p>Otros bugs menores reparados.</p>"
+  "versionCode": 26,
+  "versionName": "2.1.0",
+  "changelog": "<p>Reproductor: Mayor estabilidad y recuperación automática de enlaces vencidos.</p>
+     <p>MediaTek: Corregidos errores de reproducción en dispositivos con estos procesadores.</p>
+     <p>Descargas: Mejoras en la cola, los reintentos y las notificaciones.</p>
+     <p>Puntos: Los capítulos comprados con puntos ahora se guardan por separado.</p>
+     <p>Android TV: Corregidos varios problemas visuales y de desplazamiento.</p>
+     <p>Nuevo icono y otros errores menores corregidos.</p>"
 }
-
 
 
