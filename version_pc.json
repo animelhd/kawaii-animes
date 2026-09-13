@@ -1,6 +1,6 @@
 {
   "versionCode": 26,
-  "versionName": "2.1.0",
+  "versionName": "1.0.1",
   "changelog": "<p>Reproductor: Mayor estabilidad y recuperación automática de enlaces vencidos.</p>
      <p>MediaTek: Corregidos errores de reproducción en dispositivos con estos procesadores.</p>
      <p>Descargas: Mejoras en la cola, los reintentos y las notificaciones.</p>
