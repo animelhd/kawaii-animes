@@ -1,12 +1,12 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "changelog": "<p>Reproductor: Mayor estabilidad y recuperación automática de enlaces vencidos.</p>
-     <p>MediaTek: Corregidos errores de reproducción en dispositivos con estos procesadores.</p>
-     <p>Descargas: Mejoras en la cola, los reintentos y las notificaciones.</p>
-     <p>Puntos: Los capítulos comprados con puntos ahora se guardan por separado.</p>
-     <p>Android TV: Corregidos varios problemas visuales y de desplazamiento.</p>
-     <p>Nuevo icono y otros errores menores corregidos.</p>"
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "changelog": "<p>Reproductor: Ahora viene integrado en macOS, Windows y Linux.</p>
+  <p>Idiomas: Cambio automático cuando un capítulo no está disponible en el idioma elegido.</p>
+  <p>Reproducción: Corregidos errores de carga, servidores, pantalla completa y controles.</p>
+  <p>Descargas: Añadidos lotes, reintentos y verificación de archivos descargados.</p>
+  <p>Contenido: Nuevas recomendaciones, orden de franquicias y mejoras en el progreso.</p>
+  <p>Seguridad: Mayor protección para las sesiones y cuentas guardadas.</p>
+  <p>Nuevo icono, pantalla de inicio y otros errores corregidos.</p>
+  "
 }
-
-
