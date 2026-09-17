@@ -1,12 +1,12 @@
 {
-  "versionCode": 27,
-  "versionName": "2.1.1",
-  "changelog": "<p>Reproductor: Nuevo modo Picture-in-Picture y corregida la pantalla de carga que podía ocultar el video.</p>
-  <p>Idiomas: El siguiente capítulo cambia automáticamente a subtítulos si no está disponible en Latino o Castellano.</p>
-  <p>Puntos: Ahora puedes ver dos anuncios seguidos y el descanso baja de veinte a diez minutos.</p>
-  <p>Descargas: Nuevos lotes de hasta veinte capítulos, reintentos automáticos y progreso conservado.</p>
-  <p>Contenido: Añadidas recomendaciones, orden de franquicias y mejoras en “Seguir viendo”.</p>
-  <p>Android TV: Mejorados el control con mando, el enfoque y las descargas múltiples.</p>
-  <p>Nuevo icono, pantalla de inicio y otros errores corregidos.</p>
+  "versionCode": 28,
+  "versionName": "2.1.2",
+  "changelog": "<p>Inicio: Corregido el bloqueo en la pantalla de inicio en algunos dispositivos.</p>
+  <p>Estabilidad: Corregidos cierres inesperados al navegar en móvil y TV.</p>
+  <p>Rotación: Corregido el bloqueo en horizontal y las portadas desajustadas al salir del reproductor.</p>
+  <p>Perfil: Corregido el fallo al cambiar la imagen de perfil.</p>
+  <p>Android TV: Ahora puedes desbloquear capítulos con puntos y elegir avatares con el mando.</p>
+  <p>Avatares TV: Mayor tamaño, marco Premium mejorado e imagen predeterminada corregida.</p>
+  <p>Icono: Corregida su aparición vacía en algunos dispositivos.</p>
   "
 }
