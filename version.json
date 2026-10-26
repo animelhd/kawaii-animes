@@ -1,12 +1,5 @@
 {
-  "versionCode": 28,
-  "versionName": "2.1.2",
-  "changelog": "<p>Inicio: Corregido el bloqueo en la pantalla de inicio en algunos dispositivos.</p>
-  <p>Estabilidad: Corregidos cierres inesperados al navegar en móvil y TV.</p>
-  <p>Rotación: Corregido el bloqueo en horizontal y las portadas desajustadas al salir del reproductor.</p>
-  <p>Perfil: Corregido el fallo al cambiar la imagen de perfil.</p>
-  <p>Android TV: Ahora puedes desbloquear capítulos con puntos y elegir avatares con el mando.</p>
-  <p>Avatares TV: Mayor tamaño, marco Premium mejorado e imagen predeterminada corregida.</p>
-  <p>Icono: Corregida su aparición vacía en algunos dispositivos.</p>
-  "
+  "versionCode": 29,
+  "versionName": "2.1.3",
+  "changelog": "<p>🔔 Nueva bandeja de notificaciones: consulta los avisos, elimina mensajes y revisa cuántos tienes sin leer.</p><p>⏩ Reproducción temporal a 2×: mantén pulsado sobre el vídeo en móvil, o mantén pulsado OK en TV con los controles ocultos.</p><p>📢 Elige entre un anuncio por capítulo o cada dos capítulos.</p><p>🎨 Nueva personalización del perfil: marcos gratuitos y color del nombre para Free; marcos temáticos, degradados y efectos animados para Premium.</p><p>💾 Nuevo control del espacio de caché: ajusta su límite y límpiala sin borrar tus descargas ni tus listas.</p><p>▶️ «Seguir viendo» permite abrir el siguiente capítulo y muestra «Al día» cuando terminaste lo publicado.</p><p>🔄 Mejoras en la sincronización del progreso, la reproducción sin conexión y la recuperación ante errores.</p><p>🛟 Gamma pasa a ser el último respaldo automático para todos cuando fallan los demás servidores. Ya no se selecciona manualmente.</p><p>👑 Nueva gestión de dispositivos Premium: consulta tus sesiones y elige cuál cerrar al alcanzar el límite.</p><p>📱 Móvil: mejoras de conexión y controles de Chromecast y DLNA.</p><p>📱 Móvil: contador de puntos conseguidos durante el día.</p><p>📱 Móvil: descarga las actualizaciones desde la app.</p><p>📺 TV: corregida la pérdida de foco al recorrer las listas del perfil.</p><p>📺 TV: mejor acceso a las descargas sin internet y mejor comportamiento del botón Atrás.</p>"
 }
